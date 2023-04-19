@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    background-color: #ccc;
+    }
+    .container{
+        background-color: #fff;
+        top: 400px;
+        font-family: 'Montserrat', sans-serif;
+        max-width: 98%;
+        width: 800px;
+        margin: 50px auto;
+        padding: 0px;
+        box-shadow: -1px 5px 20px 0px rgba(64, 64, 64, 0.75);
+            -webkit-box-shadow: -1px 5px 20px 0px rgba(64, 64, 64, 0.75);
+            -moz-box-shadow: -1px 5px 20px 0px rgba(64, 64, 64, 0.75);
+    }
+    .center-div{
+        margin: auto;
+        text-align: center;
+    }
+    .mg-10{
+        padding: 20px;
+        margin: 10px;
+    }
+    .align-div{
+        margin: auto;
+        display: flex;  
+        align-items: center;
+        justify-content: center;
+        background-color: #fff;
+        padding: 20px;
+        color: #000;
+    }
+    .ml-10{
+        margin-left: 10px;
+        cursor: pointer;
+    }
+    .right{
+        color: #fff;
+        float: right;
+        padding: 10px;
+        width: 70%;
+        max-width: 800px;
+        margin-right: 0px;
+        background-color: #2f3b4e;
+    }
+    .left{
+        float: left;
+        text-align: center;
+        margin-left: 50px;
+        margin-top: 20px;
+
+    }
+
+    .radius{
+        border-radius: 50%;
+    }
+    .data{
+        background-color: #2f3b4e;
+        padding: 0px;
+        float: right;
+        width: auto;
+        columns: #fff;
+    }
+    .data-contact{
+        padding: 10px;
+        float: left;
+        width: auto;
+        color: #000;
+    }
+    .row{
+        width: 100%;
+        display: inline-block;
+    }
+    p{
+        font-weight: bold;
+    }
+    .letter-bold{
+        font-weight: bold;
+        font-family: 'Padauk', sans-serif;
+        font-size: 18px;
+    }
+
+    .tittle{
+        font-family: 'Padauk', sans-serif;
+        font-size: 22px;
+    }
+    hr{
+        border: solid 1px #263142
+    }
